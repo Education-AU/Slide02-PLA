@@ -1,5 +1,5 @@
 ---
-title: The vector space Rⁿ
+title: Linear Combination and Independence
 template: default
 ---
 

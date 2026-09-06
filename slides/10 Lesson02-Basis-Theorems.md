@@ -1,5 +1,5 @@
 ---
-title: The vector space Rⁿ
+title: Two Theorems on bases
 template: default
 ---
 

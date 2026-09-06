@@ -1,5 +1,5 @@
 ---
-title: Vector Space Basis
+title: Linear Dependence
 template: default
 ---
 <h3 style="color: blue;">Linear Dependence</h3>

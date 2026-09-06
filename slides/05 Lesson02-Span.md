@@ -1,5 +1,5 @@
 ---
-title: Vector Space Basis
+title: The Span of a Set of Vectors
 template: default
 ---
 <h3 style="color: blue;">Span of a set</h3>
