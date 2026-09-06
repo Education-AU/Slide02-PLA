@@ -2,7 +2,6 @@
 title: Determinant in numpy
 template: default
 ---
-
 We can calculate this in numpy
 
 ```python
