@@ -8,9 +8,7 @@ In this lesson we are going to define the concept of a **basis** and see how vec
 
 We are also going to study how to transform a representation from one basis to another. But first the notions of
 
-1. **Linear Combination**
-2. **Linear Independence**
-3. **Linear Dependence**
+**Linear Combination**, **Linear Independence** and  **Linear Dependence**
 
 <h3 style="color: blue;">Linear Combination</h3>
 A vector $\mathbf{v}$ is said to be a linear combination of vectors $\mathbf{v}_1,\mathbf{v}_2 \dots ,\mathbf{v}_n$ if
